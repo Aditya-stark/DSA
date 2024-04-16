@@ -72,6 +72,8 @@ int findTargetIndex(int arr[], int n, int target)
             {
                 end -= 1;
             }
+
+            
         }
     }
 
